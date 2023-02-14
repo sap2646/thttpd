@@ -1,0 +1,4 @@
+Video Server[1112]: (1223) main_pre_login_cmd[13652]: "Client 1018: recv CMD_SYSTEM_LOGIN\n"
+Feb 14 08:37:29 Video Server[1112]: (1223) main_check_userpass[10692]: "user_type=1(1:old 2:IE/NVR 5:CV2 6:GIS 7:VideoGateway)\n"
+Feb 14 08:37:29 Video Server[1112]: (1223) main_check_userpass[10697]: "Identified by username/password (is_super=1)\n"
+Feb 14 08:37:29 Video Server[1112]: (1223) main_pre_login_cmd[13869]
